@@ -5,7 +5,7 @@
 ## **EDUCATION**
 ### 2021.1 —— Now
     - Ph.D student in Applied Mathematics
-    - The University of Waterloo, Ontario (Canada)
+    - University of Waterloo, Ontario (Canada)
 
 ### 2016.9 —— 2019.6 
     - Master of Science in Aeronautical and Astronautical Science and Technology
