@@ -3,16 +3,16 @@
 ### yating.yuan@uwaterloo.ca
 
 ## **EDUCATION**
-### 2021.1 —— Now
+### Jan.2021 —— Now
     - Ph.D student in Applied Mathematics
     - University of Waterloo, Ontario (Canada)
 
-### 2016.9 —— 2019.6 
-    - Master of Science in Aeronautical and Astronautical Science and Technology
+### Sep.2016.9 —— Jul.2019
+    - Master of Science in School of Aerospace
     - Beijing Institute of Technology, Beijing (China)
 
-### 2012.9 —— 2016.6 
-    - Bachalor of Science in Detection, Guidance and Control Technology
+### Sep.2012 —— Jan.2016
+    - Bachalor of Science in School of Aerospace
     - Beijing Institute of Technology, Beijing (China)
 
 ## **RESEARCH INTEREST**
